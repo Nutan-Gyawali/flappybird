@@ -34,7 +34,7 @@ let bottomPipeImg;
 
 let velocityX=-2; // pipes moving speed
 let velocityY=0;//bird jump speed
-let gravity= 0.4;
+let gravity= 0.2;
 let gameOver = false;
 let score = 0;
 
